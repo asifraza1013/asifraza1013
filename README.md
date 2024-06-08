@@ -23,8 +23,12 @@
   </a>
 </div>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,php,laravel,mongodb,mysql,firebase,redis,github,git,postman,&figma)](https://skillicons.dev)
+### Languages and Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,php,laravel,mongodb,mysql,firebase,redis,html,css,bootstrap,jquery)](https://skillicons.dev)
+
+### Tools
+[![My Tools](https://skillicons.dev/icons?i=github,gitlab,git,postman,&figma,vscode,vscodium,bash,docker,powershell)](https://skillicons.dev)
+
 
 ![Asif Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifraza1013&show_icons=true&theme=dark)
 
